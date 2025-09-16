@@ -1,0 +1,5 @@
+{
+  "name": "Veltech Attendance Calculator",
+  "description": "A clean, attractive, and user-friendly attendance management calculator specifically for Veltech students to track their class attendance and calculate the minimum classes needed to maintain 75% attendance eligibility.",
+  "requestFramePermissions": []
+}
